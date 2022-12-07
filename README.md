@@ -17,6 +17,7 @@ My expectation was that the behavior of the two test cases would match, but I'm 
 
 Output when I run the above test command:
 
+```
     Finished test [unoptimized + debuginfo] target(s) in 0.03s
      Running unittests src/lib.rs (target/debug/deps/yrs_minimum-d14906875ad73702)
 
@@ -110,3 +111,4 @@ failures:
 test result: FAILED. 1 passed; 1 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s
 
 error: test failed, to rerun pass `--lib`
+```
